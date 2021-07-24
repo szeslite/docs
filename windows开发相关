@@ -5,3 +5,11 @@
 5.静态库集成其他静态库
 6.静态库集成其他动态库
 
+
+
+
+
+windows 常用的宏:
+_MSC_VER  该宏定义了编译器的版本
+_WINDOWS   该宏表示这是一个windows GUI程序
+_CONSOLE   该宏表示这是一个windows 控制台程序
